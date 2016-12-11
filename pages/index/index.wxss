@@ -1,0 +1,6 @@
+.img_item{
+    width:48%;
+    margin: 1%;
+    vertical-align: top;
+    display: inline-block;
+}
